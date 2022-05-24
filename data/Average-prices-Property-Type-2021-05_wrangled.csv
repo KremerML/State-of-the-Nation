@@ -1,0 +1,169 @@
+Date,Region_Name,propertyType,averagePrice
+2001-04-01,London,Detached,317567.8587
+2001-04-01,Newcastle upon Tyne,Detached,122303.3025
+2002-04-01,London,Detached,359915.9094
+2002-04-01,Newcastle upon Tyne,Detached,145953.7503
+2003-04-01,London,Detached,415920.6633
+2003-04-01,Newcastle upon Tyne,Detached,182106.1052
+2004-04-01,London,Detached,435578.3308
+2004-04-01,Newcastle upon Tyne,Detached,222917.1735
+2005-04-01,London,Detached,443176.3555
+2005-04-01,Newcastle upon Tyne,Detached,242379.7716
+2006-04-01,London,Detached,455431.2154
+2006-04-01,Newcastle upon Tyne,Detached,256358.6296
+2007-04-01,London,Detached,512599.5546
+2007-04-01,Newcastle upon Tyne,Detached,271753.7002
+2008-04-01,London,Detached,557690.1834
+2008-04-01,Newcastle upon Tyne,Detached,277678.2378
+2009-04-01,London,Detached,456682.7608
+2009-04-01,Newcastle upon Tyne,Detached,243847.7434
+2010-04-01,London,Detached,530525.8629
+2010-04-01,Newcastle upon Tyne,Detached,259708.1798
+2011-04-01,London,Detached,556812.622
+2011-04-01,Newcastle upon Tyne,Detached,254864.1759
+2012-04-01,London,Detached,561806.0629
+2012-04-01,Newcastle upon Tyne,Detached,257991.9459
+2013-04-01,London,Detached,592751.9523
+2013-04-01,Newcastle upon Tyne,Detached,248891.5199
+2014-04-01,London,Detached,688121.9217
+2014-04-01,Newcastle upon Tyne,Detached,258180.9899
+2015-04-01,London,Detached,759614.0349
+2015-04-01,Newcastle upon Tyne,Detached,277309.4965
+2016-04-01,London,Detached,859832.3451
+2016-04-01,Newcastle upon Tyne,Detached,278491.4813
+2017-04-01,London,Detached,899132.7916
+2017-04-01,Newcastle upon Tyne,Detached,284040.0648
+2018-04-01,London,Detached,898927.5544
+2018-04-01,Newcastle upon Tyne,Detached,298262.1455
+2019-04-01,London,Detached,886951.9069
+2019-04-01,Newcastle upon Tyne,Detached,294283.0946
+2020-04-01,London,Detached,921807.0283
+2020-04-01,Newcastle upon Tyne,Detached,296325.6292
+2021-04-01,London,Detached,968220.5103
+2021-04-01,Newcastle upon Tyne,Detached,331361.7469
+2001-04-01,London,Semi_Detached,187982.0063
+2001-04-01,Newcastle upon Tyne,Semi_Detached,69997.60379
+2002-04-01,London,Semi_Detached,217091.6619
+2002-04-01,Newcastle upon Tyne,Semi_Detached,83392.9913
+2003-04-01,London,Semi_Detached,258067.2917
+2003-04-01,Newcastle upon Tyne,Semi_Detached,106552.0809
+2004-04-01,London,Semi_Detached,278619.502
+2004-04-01,Newcastle upon Tyne,Semi_Detached,135765.276
+2005-04-01,London,Semi_Detached,286919.9017
+2005-04-01,Newcastle upon Tyne,Semi_Detached,150701.1821
+2006-04-01,London,Semi_Detached,296200.2498
+2006-04-01,Newcastle upon Tyne,Semi_Detached,161141.9563
+2007-04-01,London,Semi_Detached,330824.9664
+2007-04-01,Newcastle upon Tyne,Semi_Detached,171143.1774
+2008-04-01,London,Semi_Detached,349515.465
+2008-04-01,Newcastle upon Tyne,Semi_Detached,171143.1919
+2009-04-01,London,Semi_Detached,291883.4121
+2009-04-01,Newcastle upon Tyne,Semi_Detached,149238.5026
+2010-04-01,London,Semi_Detached,337787.8079
+2010-04-01,Newcastle upon Tyne,Semi_Detached,159418.5577
+2011-04-01,London,Semi_Detached,346656.6504
+2011-04-01,Newcastle upon Tyne,Semi_Detached,151380.4162
+2012-04-01,London,Semi_Detached,354723.6081
+2012-04-01,Newcastle upon Tyne,Semi_Detached,157035.1234
+2013-04-01,London,Semi_Detached,374399.8014
+2013-04-01,Newcastle upon Tyne,Semi_Detached,149665.5785
+2014-04-01,London,Semi_Detached,435644.0348
+2014-04-01,Newcastle upon Tyne,Semi_Detached,156347.869
+2015-04-01,London,Semi_Detached,480437.8997
+2015-04-01,Newcastle upon Tyne,Semi_Detached,167474.2943
+2016-04-01,London,Semi_Detached,551600.058
+2016-04-01,Newcastle upon Tyne,Semi_Detached,169197.47
+2017-04-01,London,Semi_Detached,567701.1075
+2017-04-01,Newcastle upon Tyne,Semi_Detached,169699.6485
+2018-04-01,London,Semi_Detached,579191.4737
+2018-04-01,Newcastle upon Tyne,Semi_Detached,179186.138
+2019-04-01,London,Semi_Detached,570672.0084
+2019-04-01,Newcastle upon Tyne,Semi_Detached,176552.0013
+2020-04-01,London,Semi_Detached,585408.4691
+2020-04-01,Newcastle upon Tyne,Semi_Detached,178161.259
+2021-04-01,London,Semi_Detached,628968.471
+2021-04-01,Newcastle upon Tyne,Semi_Detached,196840.7592
+2001-04-01,London,Terraced,148476.5931
+2001-04-01,Newcastle upon Tyne,Terraced,57535.93335
+2002-04-01,London,Terraced,170602.4617
+2002-04-01,Newcastle upon Tyne,Terraced,68796.55509
+2003-04-01,London,Terraced,201119.7938
+2003-04-01,Newcastle upon Tyne,Terraced,87363.55217
+2004-04-01,London,Terraced,223419.5062
+2004-04-01,Newcastle upon Tyne,Terraced,113836.8936
+2005-04-01,London,Terraced,234289.8428
+2005-04-01,Newcastle upon Tyne,Terraced,127551.7924
+2006-04-01,London,Terraced,245744.7373
+2006-04-01,Newcastle upon Tyne,Terraced,138710.3876
+2007-04-01,London,Terraced,280670.3299
+2007-04-01,Newcastle upon Tyne,Terraced,148459.9737
+2008-04-01,London,Terraced,294697.3774
+2008-04-01,Newcastle upon Tyne,Terraced,148281.4026
+2009-04-01,London,Terraced,243875.0424
+2009-04-01,Newcastle upon Tyne,Terraced,129516.6813
+2010-04-01,London,Terraced,284470.9037
+2010-04-01,Newcastle upon Tyne,Terraced,138713.9795
+2011-04-01,London,Terraced,295120.6903
+2011-04-01,Newcastle upon Tyne,Terraced,130842.6856
+2012-04-01,London,Terraced,301792.1019
+2012-04-01,Newcastle upon Tyne,Terraced,136165.9769
+2013-04-01,London,Terraced,325253.5199
+2013-04-01,Newcastle upon Tyne,Terraced,130157.2099
+2014-04-01,London,Terraced,381772.7512
+2014-04-01,Newcastle upon Tyne,Terraced,135437.3222
+2015-04-01,London,Terraced,419153.5034
+2015-04-01,Newcastle upon Tyne,Terraced,144909.9052
+2016-04-01,London,Terraced,477312.8832
+2016-04-01,Newcastle upon Tyne,Terraced,145400.9221
+2017-04-01,London,Terraced,488136.3481
+2017-04-01,Newcastle upon Tyne,Terraced,144726.8908
+2018-04-01,London,Terraced,493274.4449
+2018-04-01,Newcastle upon Tyne,Terraced,152357.4093
+2019-04-01,London,Terraced,489896.8914
+2019-04-01,Newcastle upon Tyne,Terraced,148959.6792
+2020-04-01,London,Terraced,502672.529
+2020-04-01,Newcastle upon Tyne,Terraced,150333.3897
+2021-04-01,London,Terraced,538415.3778
+2021-04-01,Newcastle upon Tyne,Terraced,167206.5231
+2001-04-01,London,Flat,137995.6625
+2001-04-01,Newcastle upon Tyne,Flat,46886.38428
+2002-04-01,London,Flat,163549.1807
+2002-04-01,Newcastle upon Tyne,Flat,58366.31991
+2003-04-01,London,Flat,188347.2855
+2003-04-01,Newcastle upon Tyne,Flat,75906.41144
+2004-04-01,London,Flat,202365.1876
+2004-04-01,Newcastle upon Tyne,Flat,96529.09078
+2005-04-01,London,Flat,211198.7055
+2005-04-01,Newcastle upon Tyne,Flat,107065.8586
+2006-04-01,London,Flat,220453.4236
+2006-04-01,Newcastle upon Tyne,Flat,114742.8742
+2007-04-01,London,Flat,251018.7512
+2007-04-01,Newcastle upon Tyne,Flat,121413.7201
+2008-04-01,London,Flat,265190.8084
+2008-04-01,Newcastle upon Tyne,Flat,119039.5381
+2009-04-01,London,Flat,222091.9491
+2009-04-01,Newcastle upon Tyne,Flat,105125.5349
+2010-04-01,London,Flat,251898.7003
+2010-04-01,Newcastle upon Tyne,Flat,106926.2734
+2011-04-01,London,Flat,264752.349
+2011-04-01,Newcastle upon Tyne,Flat,99665.86258
+2012-04-01,London,Flat,267992.9217
+2012-04-01,Newcastle upon Tyne,Flat,102862.859
+2013-04-01,London,Flat,288624.4778
+2013-04-01,Newcastle upon Tyne,Flat,96620.78644
+2014-04-01,London,Flat,337738.0181
+2014-04-01,Newcastle upon Tyne,Flat,100501.6408
+2015-04-01,London,Flat,367468.6726
+2015-04-01,Newcastle upon Tyne,Flat,107638.6132
+2016-04-01,London,Flat,407094.1472
+2016-04-01,Newcastle upon Tyne,Flat,106857.9541
+2017-04-01,London,Flat,428540.6399
+2017-04-01,Newcastle upon Tyne,Flat,109630.363
+2018-04-01,London,Flat,420314.5303
+2018-04-01,Newcastle upon Tyne,Flat,112594.98
+2019-04-01,London,Flat,411728.2298
+2019-04-01,Newcastle upon Tyne,Flat,108411.0246
+2020-04-01,London,Flat,412701.7408
+2020-04-01,Newcastle upon Tyne,Flat,106345.493
+2021-04-01,London,Flat,427992.3715
+2021-04-01,Newcastle upon Tyne,Flat,114659.7908
